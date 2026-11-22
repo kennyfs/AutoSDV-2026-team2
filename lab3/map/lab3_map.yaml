@@ -1,0 +1,48 @@
+lanelet_check:
+  passed: true
+  sim: true
+  goal_behind: 1.0
+  lanelet_sha256: 58bf416d0bf49a71aabc13e6e67add8555366b3503a2bf6207a8c2f1c57cd371
+  results:
+  - requirement: loop
+    ok: true
+    value: 9 lanelets, 100.3 m
+    reason: ''
+  - requirement: clockwise
+    ok: true
+    value: signed area -658.8 m^2
+    reason: ''
+  - requirement: speed limits
+    ok: true
+    value: 10-10 km/h
+    reason: ''
+  - requirement: start boundary
+    ok: true
+    value: 0.50 m behind the origin
+    reason: ''
+  - requirement: sim lap
+    ok: true
+    value: 98.9 m in 123 s sim
+    reason: ''
+  start_hint:
+    s_origin: 2.066
+    off_loop: 0.412
+    lanelet: 60
+    behind: 0.5
+    previous: 32
+    near: true
+    goal_lanelet: 32
+    goal_behind: 1.0
+    heading_deg: 178.477
+    axis: -x
+  sim_lap:
+    ok: true
+    reason: arrived
+    value: 98.9 m in 123 s sim
+    wall_s: 137.0
+    lap_s: 123.5
+    run_dir: /home/hung-yu/lab3/AutoSDV/tmp/lab3_sim_lap/20261122_191439
+    samples: 8777
+    travel_m: 98.87
+  time: 2026-11-22T19:16:56+0800
+  autosdv: 3f1b0f1e365bcd1efe52c64256d1812366053946
