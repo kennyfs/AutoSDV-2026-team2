@@ -8,4 +8,4 @@
 #
 # On each lanelet the car drives at no more than the lower of this limit and the
 # lanelet's own speed_limit (set in Vector Map Builder).
-max_speed_kmh: 5.0
+max_speed_kmh: 3.0
