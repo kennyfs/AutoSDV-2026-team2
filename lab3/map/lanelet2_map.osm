@@ -192,13 +192,13 @@
     <tag k="ele" v="-0.4015"/>
   </node>
   <node id="202" lat="" lon="">
-    <tag k="local_x" v="0.3"/>
-    <tag k="local_y" v="-0.2139"/>
+    <tag k="local_x" v="0.5071"/>
+    <tag k="local_y" v="-0.1786"/>
     <tag k="ele" v="-0.4574"/>
   </node>
   <node id="203" lat="" lon="">
-    <tag k="local_x" v="0.2965"/>
-    <tag k="local_y" v="0.7856"/>
+    <tag k="local_x" v="0.5036"/>
+    <tag k="local_y" v="0.8209"/>
     <tag k="ele" v="-0.4574"/>
   </node>
   <node id="209" lat="" lon="">
