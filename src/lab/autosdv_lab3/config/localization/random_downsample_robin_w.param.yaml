@@ -2,4 +2,4 @@
 # (voxel_grid_robin_w.param.yaml). 3000, up from 2000, so the finer grid is not undone.
 /**:
   ros__parameters:
-    sample_num: 3000
+    sample_num: 1500
